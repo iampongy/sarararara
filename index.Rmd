@@ -1,0 +1,27 @@
+---
+title: "mehndi"
+image: "images/1234.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## INTRODUCTION
+
+Mehndi smells.Deal with it.
+
+## EXPERIENCE
+
+I learnt to do mehndi and have been doing it for 5 years and im proper good at it.  
+# Experience
+
+
